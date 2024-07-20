@@ -1,4 +1,4 @@
-![logo](https://github.com/Elysian-Reverie/Elysian-Reverie/blob/main/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner.mp4)
+![logo](https://github.com/Elysian-Reverie/Elysian-Reverie/blob/main/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner.png)
 <h1 align="center">Greetings!👋 Vedansh Sharma welcomes you</h1>
 <h3 align="center">A congenital kleptomaniac of epistemology</h3>
 
